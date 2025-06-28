@@ -3,6 +3,11 @@
 SmartStudent is a modern, desktop-based Student Management System built using **Java**, **Swing (FlatLaf)**, **JDBC**, and **MySQL**. It enables administrators to efficiently manage student data with features like login, CRUD operations, search, export, and subject-wise grade calculation.
 
 ---
+### 📸 Here is the inserted screenshot:
+
+[Working Screenshot](https://docs.google.com/document/d/1QbXFkBiu3In4-P3LPV2-xjGP-y_vATN6NKyF_HJp1fg/edit?usp=sharing)
+
+---
 
 ## 🚀 Features
 
