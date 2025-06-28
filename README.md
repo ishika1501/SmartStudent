@@ -32,17 +32,18 @@ SmartStudent is a modern, desktop-based Student Management System built using **
 
 javac -cp "lib/*" -d out $(find src -name "*.java")
 
+
 ---
 
 ### 📌 Step 3: Run the Project
 
+java -cp "out:lib/*" com.ishika.smartstudent.Main  
 
- On **Windows**, replace `:` with `;` in the classpath.
 
 ---
 ## 🔐 Default Admin Login
-Username: admin
-Password: admin123
+- Username: admin
+- Password: admin123
 
 ---
 
